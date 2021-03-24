@@ -5,7 +5,7 @@ This is a Strategy based game designed for Windows using C++ & for android using
 # Initially :
 There are some coins in a row (represented by their values)
 Windows Welcome screen :
-![](images/destopScreen1.PNG)
+![](images/desktopScreen1.PNG)
 # Rules :
 Leftmost or rightmost coin can be taken by the player everytime & players will take coins alternatively.
 Images of android app:
