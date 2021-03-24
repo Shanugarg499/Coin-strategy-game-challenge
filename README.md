@@ -9,9 +9,9 @@ Windows Welcome screen :
 # Rules :
 Leftmost or rightmost coin can be taken by the player everytime & players will take coins alternatively.
 More images of Desktop:
-![](desktopScreen2)
-![](desktopScreen3)
-![](desktopScreen4
+![](desktopScreen2.png)
+![](desktopScreen3.png)
+![](desktopScreen4.png)
 # Case :
 This game is designed only such that : "Windows / Android device" makes first move.
 # Challenging part:
