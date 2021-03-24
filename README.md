@@ -9,7 +9,7 @@ Windows Welcome screen :
 # Rules :
 Leftmost or rightmost coin can be taken by the player everytime & players will take coins alternatively.
 More images of Desktop:
-![](images/desktopScreen2.png)
+![](https://github.com/Shanugarg499/Coin-strategy-game-challenge/blob/main/images/desktopScreen1.png)
 ![](images/desktopScreen3.png)
 ![](images/desktopScreen4.png)
 # Case :
