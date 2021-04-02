@@ -1,6 +1,9 @@
 # Coin-strategy-game-challenge
-
 This is a Strategy based game designed for Windows using C++ & for android using Java.
+
+# NOTE :
+For Windows version, Downloading Mingw compiler and setting that to path is recommended because, some .dll (Direct Link Library) might be missing in your computer.
+To install Mingw and set it's path, you can refer to this short youtube video : https://youtu.be/enL4TajEpN8
 
 # Initially :
 There are some coins in a row (represented by their values)
